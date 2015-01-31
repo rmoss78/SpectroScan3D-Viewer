@@ -8,7 +8,6 @@ import com.jme3.scene.*;
 import com.jme3.scene.VertexBuffer.Type;
 import com.jme3.util.BufferUtils;
 import java.io.File;
-import java.net.URL;
 import static Main.SPLSensorConstants.*;
 import com.jme3.system.AppSettings;
 import java.io.UnsupportedEncodingException;
